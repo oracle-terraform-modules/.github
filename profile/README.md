@@ -1,4 +1,4 @@
-![Oracle Logo](https://github.com/oracle-terraform-modules/.github/blob/readme-upd/profile/OGHO%20banner%20-%20Terraform%20Modules.png?raw=true "Open source at Oracle. Everyone is invited. Let's collaborate together")
+![Oracle Logo](https://github.com/oracle-terraform-modules/.github/blob/main/profile/OGHO%20banner%20-%20Terraform%20Modules.png?raw=true "Open source at Oracle. Everyone is invited. Let's collaborate together")
 
 # Oracle Terraform Modules
 
